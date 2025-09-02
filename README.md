@@ -10,7 +10,7 @@ The objective of this exercise is to build a model, using historical data, that 
 ## 📄 Project Report:
 A detailed report explaining the problem statement , methodlogy , data analysis , model used , and results is available below:
 
-📘 [View Full Project Report (PDF)](Model_training_report.pdf)
+📘 [View Full Project Report (PDF)](Project report.pdf)
 
 
 ## 🛠️ Tech Stack:
