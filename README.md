@@ -7,10 +7,11 @@ To ensure there is no discrimination between employees, it is imperative for the
 ## 📌 Goal & Objective: 
 The objective of this exercise is to build a model, using historical data, that will determine the salary to be offered to an employee, minimizing manual judgment in the selection process. The approach aims to be robust and eliminate any discrimination in salary among employees with similar profiles.
 
+
 ## 📄 Project Report:
 A detailed report explaining the problem statement , methodlogy , data analysis , model used , and results is available below:
 
-📘 [View Full Project Report (PDF)](Project Report.pdf)
+[📑 View Full Project Report (PDF)](./Project_Report.pdf)
 
 
 ## 🛠️ Tech Stack:
